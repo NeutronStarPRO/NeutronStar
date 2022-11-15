@@ -6,7 +6,7 @@
 
 # 架构：
 
-总结：架构如下图。
+架构如下图。
 
 <img src="assets/ICWeBlog/image-20221115232654631.png" alt="image-20221115232654631" style="zoom:23%;" />
 
