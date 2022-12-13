@@ -17,7 +17,7 @@
 
 ### 社区公共 canister ：
 
-如果作者要发布文章，就把文章内容从自己的 canister 推送到 “ 社区 canister ” 里。用户访问社区的 canister 来阅读文章。
+如果作者要发布文章，就把文章内容从自己的 canister 推送到 “ 社区 canister ” 里。用户访问社区的 canister 来阅读文章。别的客户端也可以获取社区 canister 的内容。
 
 社区的这些 canister 属于 NeutronStarDAO 。由 DAO 雇佣开发团队维护、升级 canister 。DAO 也负责审核、删除大家投票都不喜欢的内容。（前期由团队托管 canister ，后面会成立 DAO ，然后交给 DAO）
 
