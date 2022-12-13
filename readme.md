@@ -1,4 +1,4 @@
-# ICWeBlog
+# NeutronStar
 
 **在 IC 上的 web3 Blog 社交平台！**
 
