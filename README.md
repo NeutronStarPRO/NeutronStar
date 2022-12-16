@@ -4,7 +4,7 @@
 
 > Distributed collaboration: contribute code to NeutronStarDAO to get token rewards.
 
-Here is Chinese readme [中文版](README_zh.md) .
+Here is Chinese readme [中文版](./README_zh.md) .
 
 # Architecture
 
