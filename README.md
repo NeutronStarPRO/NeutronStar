@@ -1,6 +1,6 @@
 # NeutronStar
 
-**A web3 Blog content aggregation platform on IC! **
+**A web3 Blog content aggregation platform on IC!**
 
 > Distributed collaboration: contribute code to NeutronStarDAO to get token rewards.
 
