@@ -4,37 +4,37 @@
 
 > Distributed collaboration: contribute code to NeutronStarDAO to get token rewards.
 
-Here is Chinese readme [中文版](./README_zh.md) .
+Here is Chinese readme [中文版](README_zh.md) .
 
 # Architecture
 
 The project mainly consists of WeBlog, NeutronStar, and Seesset parts.
 
-* WeBlog is an independent blog storage and publishing tool.
+* WeBlog is an independent blog storage and publishing tool
 * NeutronStar is a blog content aggregation platform
 * Seesset is a NFT blog trading platform
 
 ![1](assets/readme/1.png)
 
-### WeBlog independent storage
+### WeBlog independent storage:
 
-Authors' posts are stored in their own canister. Each WeBlog user can create their own canister to store their blogs and images. You can set a blog to be public, so that people can access the author's canister to view the blog directly.
+The author's articles are stored in his own canister. Each WeBlog user can create his own jar to store his own blog and pictures. You can set a blog to be public, so that everyone can call the author's canister to browse the blog directly.
 
-### NeutronStar community canister
+### NeutronStar community canister:
 
-Authors can also push articles to the community canister for more people to see. Users can visit the community canister to read the articles. Other clients can also access the content of the community canister.
+Authors can also push articles to the community canister for more people to see. Users visit the community's canister to read articles. Other clients can also get the content of the community canister.
 
-These community canisters belong to NeutronStarDAO. The DAO hires a development team to maintain and upgrade the canister. NSDAO is also responsible for reviewing and removing content that people don't like when they vote (the canister is hosted by the team in the early stages, then NSDAO will be established and handed over to NSDAO later).
+These canisters of the community belong to NeutronStarDAO. The development team hired by DAO maintains and upgrades canister. NSDAO is also responsible for reviewing and deleting the content that everyone voted against (canister will be hosted by the team in the early stage, and NSDAO will be established later, and then handed over to NSDAO).
 
-Readers can form different interest groups, small communities to discuss, vote together, etc. according to the content of the articles.
+Readers can form different interest groups, small community exchanges and discussions, vote together, etc. according to the content of the articles.
 
 ### Seesset NFT:
 
-The author can choose to spend some NS to cast the blog as NFT after writing the blog.
+After writing the blog, the author can choose to spend some NS to cast the blog into NFT.
 
-### Open Interface
+### Open interface:
 
-The interface to the community canister is open. All kinds of front-ends can connect to the community, and other types of platforms can push their own articles to the NeutronStar community, get the list of articles in the community, article content, and also interact through this set of open interfaces: comments, likes, etc. (but no NFT article series functionality).
+The interface of the community canister is open. Various front-ends can be connected to the community, and other types of platforms can also push their own articles to the NeutronStar community, obtain the list of articles and article content in the community, and complete interactions through this set of open interfaces: comments, likes, etc. (but no NFT article series feature).
 
 Data output by the public API:
 
@@ -67,7 +67,27 @@ In short, if the author thinks his blog is good, he can buy NS to mint NFT blog,
 
 If the author has not minted NFT and feels that the quality of his blog is good after the blog is published, he can also apply for sponsorship from NSDAO.
 
-<br/>
+NSDAO has the right to decide whether to issue additional NS tokens through voting, or directly burn tokens to resist excessive inflation.
+
+NSDAO can take back some circulating NS by selling things. DAO recruits teams to produce some art NFTs, figures, peripheral products, novels, etc., and users can purchase them with NS.
+
+NSDAO summarizes the year at the end of the year, and then votes for several high-quality blog authors to issue commemorative NFT and Token rewards.
+
+
+
+> The role of DAO is to form and operate an autonomous community. Essentially, you get rewarded for contributing to the community. Governance contributions, article contributions, code contributions, participation in audits, and more.
+>
+> The economic model is for DAO. Macroscopically, the better the community develops, the more valuable the Token and the higher the price (generally, deflation is achieved through the combustion mechanism when user activity increases). After the Token is burned, the price rises, rewarding early holders and long-term supporters. Another aspect of the economic model is incentives. When there are fewer early users, a little more tokens are needed as incentives; after the number of users increases and the community matures, the number of incentive tokens will gradually decrease. For example, when the project was first launched, you could get 100 Tokens a day for participating in various activities, but after the project became popular, you could only get 7 Tokens for participating in one-day activities.
+>
+> If DAO uses the number of Tokens as the voting weight, one of the problems it faces is that there is a gap between the rich and the poor in society.
+>
+> If we assume that 90% of the people hold 10% of the wealth, and the other 90% of the people hold 10% of the wealth: that is to say, 10% of the rich have the ability to buy a large number of Tokens and directly control the right to speak in DAO. And ordinary people still hope that the token he bought can be multiplied several times, making him rich. Voting in the DAO is also insignificant, because even if everyone is united, it will only have 10% of the voting power.
+>
+> But if one person one vote is fair (even if the technology can filter all robots), it is likely to cause incitement of public opinion, troll shock......
+>
+> To be more balanced, add the number of pledged Tokens, pledge time, how many times you have participated in voting, whether you have recognized code contributions, and the length of time you have participated in content review in the community to the voting weight.
+
+
 
 ## Initiate a private space:
 
