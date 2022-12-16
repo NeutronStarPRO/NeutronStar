@@ -5,7 +5,7 @@
 > Distributed collaboration: contribute code to NeutronStarDAO to get token rewards.
 
 
-# Architecture.
+# Architecture
 
 The project mainly consists of WeBlog, NeutronStar, and Seesset parts.
 
@@ -15,11 +15,11 @@ The project mainly consists of WeBlog, NeutronStar, and Seesset parts.
 
 ![3](assets/readme/3.png)
 
-### WeBlog independent storage.
+### WeBlog independent storage
 
 Authors' posts are stored in their own canister. Each WeBlog user can create their own canister to store their blogs and images. You can set a blog to be public, so that people can access the author's canister to view the blog directly.
 
-### NeutronStar community canister.
+### NeutronStar community canister
 
 Authors can also push articles to the community canister for more people to see. Users can visit the community canister to read the articles. Other clients can also access the content of the community canister.
 
@@ -31,7 +31,7 @@ Readers can form different interest groups, small communities to discuss, vote t
 
 The author can choose to spend some NS to cast the blog as NFT after writing the blog.
 
-### Open Interface.
+### Open Interface
 
 The interface to the community canister is open. All kinds of front-ends can connect to the community, and other types of platforms can push their own articles to the NeutronStar community, get the list of articles in the community, article content, and also interact through this set of open interfaces: comments, likes, etc. (but no NFT article series functionality).
 
