@@ -14,7 +14,7 @@ The project mainly consists of WeBlog, NeutronStar, and Seesset parts.
 * NeutronStar is a blog content aggregation platform
 * Seesset is a NFT blog trading platform
 
-![3](assets/readme/3.png)
+![1](assets/readme/1.png)
 
 ### WeBlog independent storage
 
