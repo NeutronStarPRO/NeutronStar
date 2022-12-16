@@ -81,7 +81,7 @@ NSDAO summarizes the year at the end of the year, and then votes for several hig
 >
 > If DAO uses the number of Tokens as the voting weight, one of the problems it faces is that there is a gap between the rich and the poor in society.
 >
-> If we assume that 90% of the people hold 10% of the wealth, and the other 90% of the people hold 10% of the wealth: that is to say, 10% of the rich have the ability to buy a large number of Tokens and directly control the right to speak in DAO. And ordinary people still hope that the token he bought can be multiplied several times, making him rich. Voting in the DAO is also insignificant, because even if everyone is united, it will only have 10% of the voting power.
+> If we assume that 10% of the people hold 90% of the wealth, and the other 90% of the people hold 10% of the wealth: that is to say, 10% of the rich have the ability to buy a large number of Tokens and directly control the right to speak in DAO. And ordinary people still hope that the token he bought can be multiplied several times, making him rich. Voting in the DAO is also insignificant, because even if everyone is united, it will only have 10% of the voting power.
 >
 > But if one person one vote is fair (even if the technology can filter all robots), it is likely to cause incitement of public opinion, troll shock......
 >
